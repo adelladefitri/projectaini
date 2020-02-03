@@ -1,0 +1,2 @@
+# projectaini
+latihan menggunakan github
